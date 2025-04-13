@@ -92,3 +92,4 @@ You can find our pull request page here: [Pull Requests][github:pull-requests]
 [github:bleeding]:      https://github.com/tusing/reddit-ffn-bot/tree/bleeding
 [github:issues]:        https://github.com/tusing/reddit-ffn-bot/issues
 [github:pull-requests]: https://github.com/tusing/reddit-ffn-bot/pulls 
+linkffn(7742439)
